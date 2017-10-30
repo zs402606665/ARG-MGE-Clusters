@@ -1,0 +1,1 @@
+perl /TJPROJ1/MICRO/hanpeng/personalized_analysis/script/ACC_MGE.pos/ACC_MGE.pos.pl 5samples.new.gff identity0.8_coverage0.7.gene-ARG.xls --anno_isfinder all.IS.filter.tab --anno_integrall all.Integron.filter.tab --anno_plasmid all.plasmid.filter.tab > ACC_MGE.arrangement.xls
